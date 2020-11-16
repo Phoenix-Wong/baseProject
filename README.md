@@ -175,7 +175,7 @@ public abstract class BaseForm<T> {
 @Override
 public boolean addUser(AddUserForm userForm) {
     User user = new User();
-    BeanUtils.copyProperties(this,user);
+    BeanUtils.copyProperties(userForm,user);
     return save(user);
 }
 ```

@@ -49,3 +49,15 @@
 2020-03-07 22:14:58.259 [Thread-13] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 2020-03-07 22:14:58.262 [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Shutdown initiated...
 2020-03-07 22:14:58.264 [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Shutdown completed.
+2020-06-17 17:21:40.509 [main] INFO  com.hxh.basic.project.BasicProjectApplicationTests - Starting BasicProjectApplicationTests on codedeMacBook-Pro.local with PID 52478 (started by code in /Users/code/IdeaProjects/basic_project)
+2020-06-17 17:21:40.511 [main] INFO  com.hxh.basic.project.BasicProjectApplicationTests - The following profiles are active: dev
+2020-06-17 17:21:42.241 [main] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Starting...
+2020-06-17 17:21:44.680 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-17 17:22:35.403 [main] INFO  com.hxh.basic.project.BasicProjectApplicationTests - Starting BasicProjectApplicationTests on codedeMacBook-Pro.local with PID 52538 (started by code in /Users/code/IdeaProjects/basic_project)
+2020-06-17 17:22:35.404 [main] INFO  com.hxh.basic.project.BasicProjectApplicationTests - The following profiles are active: dev
+2020-06-17 17:22:36.769 [main] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Starting...
+2020-06-17 17:22:39.115 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
