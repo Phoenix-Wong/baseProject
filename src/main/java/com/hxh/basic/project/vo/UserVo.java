@@ -2,13 +2,12 @@ package com.hxh.basic.project.vo;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-import io.swagger.models.auth.In;
 import lombok.Data;
 
 import java.time.LocalDateTime;
 
 /**
- * @author huangxunhui
+ * @author
  * Date: Created in 2020/3/6 4:13 下午
  * Utils: Intellij Idea
  * Description: 用户视图模型

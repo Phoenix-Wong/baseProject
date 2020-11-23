@@ -3,11 +3,9 @@ package com.hxh.basic.project;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 /**
- * @author huangxunhui
+ * @author
  * Date: Created in 2019-03-12 11:29
  * Utils: Intellij Idea
  * Description: 启动类

@@ -1,6 +1,3 @@
-![](https://images.gitee.com/uploads/images/2020/0307/221948_a47afa59_1740559.jpeg)
-
-
 ### 前言
 
 &emsp;&emsp;建立一个全新的项目，或者把旧的庞大的项目，进行拆分成多个项目。在建立新的项目中，经常需要做一些重复的工作，比如说拷贝一下常用的工具类，通用代码等等。所以就可以做一个基础的项目方便使用，在经历新项目的时候，直接在基础项目上进行简单配置就可以开发业务代码了。
@@ -685,13 +682,3 @@ mvn clean package -P test
 ### JenkinsFile
 
 &emsp;&emsp;JenkinsFile肯定顾名思义是给jenkins用的。主要是配置项目根据如何进行构建并发布到不同的环境。需要去了解pipeline语法，以及如何配置jenkins。[JenkinsFileDemo](https://gitee.com/huangxunhui/basic_project/blob/master/Jenkinsfile)
-
-### 代码地址
-
->  https://gitee.com/huangxunhui/basic_project.git
-
-### 结尾
-
-&emsp;&emsp;如果觉得对你有帮助，可以多多评论，多多点赞哦，也可以到我的主页看看，说不定有你喜欢的文章，也可以随手点个关注哦，谢谢。
-
-![](https://cos.huangxunhui.com/blog/个人铭牌.png)

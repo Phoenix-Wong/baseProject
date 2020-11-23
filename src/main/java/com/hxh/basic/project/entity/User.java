@@ -10,11 +10,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * <p>
- * 
- * </p>
  *
- * @author huangxunhui
+ * @author
  * @since 2020-03-06
  */
 @Data
